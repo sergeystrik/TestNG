@@ -14,7 +14,7 @@ public class annotations {
         System.out.println("i am test case A");
     }
     @Test
-    public void BTestCase(){
+    public void BTestCase (){
         System.out.println("i am test case B");
 
     }
